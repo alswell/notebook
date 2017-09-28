@@ -1,0 +1,47 @@
+### OTG fastboot
+- boot from EMMC, enter uboot, format EMMC
+```
+fdisk -c 0
+fatformat mmc 0:1
+ext3format mmc 0:2
+ext3format mmc 0:3
+ext3format mmc 0:4
+
+fastboot
+```
+- open windows cmd @ USB_fastboot_tool dir, copy 4 files into this dir first!
+```
+fastboot.exe flash bootloader u-boot-iTOP-4412.bin
+fastboot.exe flash kernel zImage
+fastboot.exe flash ramdisk ramdisk-uboot.img
+fastboot.exe flash system system.img
+fastboot -w    # ²Á³ýÃüÁî
+fastboot reboot
+```
+### SD fuse
+- enter uboot, format TF card
+```
+fdisk -c 1    # use fdisk -c 1 300 300 300 instead if 2GB TF card
+fatformat mmc 1:1
+ext3format mmc 1:2
+ext3format mmc 1:3
+ext3format mmc 1:4
+
+```
+- open linux terminal, sftp <topeet CD root>/06_Ô´Âë_uboot ºÍ kernel/iTop4412_uboot_xxx.tar.gz
+- insert TF card into linux, let TF card be "/dev/sdx"
+```
+tar -zxvf iTop4412_uboot_xxx.tar.gz
+cd iTop4412_uboot
+./mkuboot /dev/sdx
+```
+- insert TF card to windows, create "sdupdate" dir at root dir of TF card, copy 4 files into "sdupdate"
+- insert TF card to board, boot from TF card, enter uboot, to fuse all, use: "sdfuse flashall", or:
+```
+sdfuse flash bootloader u-boot-iTOP-4412.bin
+sdfuse flash kernel zImage
+sdfuse flash ramdisk ramdisk-uboot.img
+sdfuse flash system system.img
+
+reset
+```
