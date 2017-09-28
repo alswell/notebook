@@ -11,8 +11,8 @@ sudo rmmod uvcvideo
 sudo modprobe uvcvideo quirks=128 
 ```
 #### References：
-- sonix uvc驱动的添加 RT5350支持H264 http://blog.csdn.net/lubing20044793/article/details/36953679
-- modprobe XXX not found 解决与Depmod命令; insmod/modprobe的区别 http://blog.csdn.net/adaptiver/article/details/6305404
-- rmmod命令 http://man.linuxde.net/rmmod
+- [sonix uvc驱动的添加 RT5350支持H264](http://blog.csdn.net/lubing20044793/article/details/36953679)
+- [modprobe XXX not found 解决与Depmod命令; insmod/modprobe的区别](http://blog.csdn.net/adaptiver/article/details/6305404)
+- [rmmod命令](http://man.linuxde.net/rmmod)
 - https://stackoverflow.com/questions/24923145/open-2-usb-cameras-simultaneously-on-vlc-player-ubuntu-12-04
 - https://stackoverflow.com/questions/11394712/libv4l2-error-turning-on-stream-no-space-left-on-device
