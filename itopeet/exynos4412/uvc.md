@@ -1,4 +1,4 @@
-### VIDIOC_STREAMON: No space left on device
+### VIDIOC_STREAMON ?_? No space left on device(28)
 http://blog.csdn.net/zhangwu1241/article/details/52983271
 
 先说下原因，linux中为usb camera提供了一个统一的驱动以方便使用，只要符合驱动规范就可以实现即插即用usb camera设备，即免驱动安装乐。 usb bus的 bandwidth是有限的，而本着贪心原则，camera会要求获取最大带宽（usb2.0 camera480？）；而将两个camera接入一路usb bus，打开第二个camera就会出现”No space left on device”的错误。
@@ -10,3 +10,9 @@ http://blog.csdn.net/zhangwu1241/article/details/52983271
 sudo rmmod uvcvideo 
 sudo modprobe uvcvideo quirks=128 
 ```
+#### References：
+- sonix uvc驱动的添加 RT5350支持H264 http://blog.csdn.net/lubing20044793/article/details/36953679
+- modprobe XXX not found 解决与Depmod命令; insmod/modprobe的区别 http://blog.csdn.net/adaptiver/article/details/6305404
+- rmmod命令 http://man.linuxde.net/rmmod
+- https://stackoverflow.com/questions/24923145/open-2-usb-cameras-simultaneously-on-vlc-player-ubuntu-12-04
+- https://stackoverflow.com/questions/11394712/libv4l2-error-turning-on-stream-no-space-left-on-device
