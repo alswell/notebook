@@ -3,11 +3,17 @@
 - [Android 操作系统获取Root权限 原理详细解析_Android_脚本之家](https://www.jb51.net/article/42351.htm)
 - [Android 获取ROOT权限原理解析 - 桃花雪 - 博客园](https://www.cnblogs.com/l1pe1/p/9341930.html)
 - [小米手机MIUI9开发版开启ROOT权限方法-百度经验](https://jingyan.baidu.com/article/a3a3f8112501e38da3eb8a65.html)
+- [怎么用adb命令root手机-百度经验](https://jingyan.baidu.com/article/08b6a59165bb4b14a80922b7.html)
 
 # rom
 - [深入浅出讲解安卓手机刷机-【线刷宝】](https://www.xianshuabao.com/guide/skill/4261.html)
 - [小米MI-ONE C1（M1电信版）刷机教程 小米MI-ONE C1（M1电信版）ROOT方法 小米MI-ONE C1（M1电信版）刷机包下载 小米MI-ONE C1（M1电信版）刷机方法](http://www.shuaji.com/shouji/xiaomi_m1_cdma2000.htm)
 - [红米Note8 Pro刷机教程，线刷升级更新官方系统包 - 迷你手机网](https://www.netded.com/guide/201909/3044542.html)
+
+# fastboot
+- [使用fastboot命令刷机流程详解_Android小码农的博客-CSDN博客_fastboot](https://blog.csdn.net/s13383754499/article/details/82755012)
+- [[Linux] fastboot 用法学习归纳_Younix凌乱的草稿本-CSDN博客](https://blog.csdn.net/dearsq/article/details/51517552?utm_medium=distribute.pc_relevant.none-task-blog-baidujs_baidulandingword-1&spm=1001.2101.3001.4242)
+
 
 # adb
 - [android虚拟机sdcard操作出现mkdir failed for , Read-only file system的解决办法_superyu1992的专栏-CSDN博客](https://blog.csdn.net/superyu1992/article/details/38032227)
@@ -56,6 +62,13 @@
 - [Android中判断当前API的版本号_wangsf1112的专栏-CSDN博客_android 获取api版本](https://blog.csdn.net/wangsf1112/article/details/51545101)
 - [Android灯光系统-class和HAL_itdo_just的博客-CSDN博客](https://blog.csdn.net/itdo_just/article/details/76585085)
 - [Android权限（Permissions）处理 - 简书](https://www.jianshu.com/p/3541647480a9)
+- [Android NV21 byte[] 数据转化为JPEG byte[] 数据_chenjinlong126的博客-CSDN博客](https://blog.csdn.net/chenjinlong126/article/details/78232164)
+- [Android 外置SDCard读写权限总结_Luckcat-CSDN博客_android 读写权限](https://blog.csdn.net/u010784887/article/details/53560025/)
+- [Android长时间保存文件getExternalFilesDir和getFilesDir和_李胜坤的博客-CSDN博客_getexternalfilesdir](https://blog.csdn.net/qq_31255557/article/details/89843233)
+- [Android APP的禁用横竖屏切换_不要錯過才珍惜-CSDN博客](https://blog.csdn.net/xjh_shin/article/details/80548134)
+- [Android APP 简单高效的禁用横竖屏切换 - 成宇佳 - 博客园](https://www.cnblogs.com/chengyujia/p/5008045.html)
+- [Android APP禁止旋转和软键盘的控制_Nancy的博客-CSDN博客](https://blog.csdn.net/wsx5edc/article/details/65441855)
+- [谈谈Android中的SurfaceTexture - handspeaker - 博客园](https://www.cnblogs.com/hrlnw/p/3277300.html)
 
 ## android studio
 - [Configure hardware acceleration for the Android Emulator](https://developer.android.com/studio/run/emulator-acceleration?utm_source=android-studio#vm-linux)
@@ -99,6 +112,8 @@
 - [Android绕开Camera打开手电筒的LED的实现方法_小菜琳的博客-CSDN博客](https://blog.csdn.net/Bleen1009/article/details/42029813)
 
 # Java
+- [请问如何将String转换成InputStream-CSDN论坛](https://bbs.csdn.net/topics/70022722)
+- [Java：ArrayList和数组int[]的相互转化_weixin_41615787的博客-CSDN博客](https://blog.csdn.net/weixin_41615787/article/details/85115620)
 - [java处理日期时间 相加减 - 学徒 - ITeye博客](https://www.iteye.com/blog/alexfc-363185)
 - [Java 日期时间 | 菜鸟教程](https://www.runoob.com/java/java-date-time.html)
 - [查看jar包内容 - wqbin - 博客园](https://www.cnblogs.com/wqbin/p/11128391.html)
