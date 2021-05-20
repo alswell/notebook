@@ -111,20 +111,6 @@
 - [Android 开启手电筒功能（完美适配4.x， 5.x， 6.x ）_寻梦者-CSDN博客](https://blog.csdn.net/u012417984/article/details/77542594?utm_medium=distribute.pc_relevant.none-task-blog-baidujs_baidulandingword-0&spm=1001.2101.3001.4242)
 - [Android绕开Camera打开手电筒的LED的实现方法_小菜琳的博客-CSDN博客](https://blog.csdn.net/Bleen1009/article/details/42029813)
 
-# Java
-- [请问如何将String转换成InputStream-CSDN论坛](https://bbs.csdn.net/topics/70022722)
-- [Java：ArrayList和数组int[]的相互转化_weixin_41615787的博客-CSDN博客](https://blog.csdn.net/weixin_41615787/article/details/85115620)
-- [java处理日期时间 相加减 - 学徒 - ITeye博客](https://www.iteye.com/blog/alexfc-363185)
-- [Java 日期时间 | 菜鸟教程](https://www.runoob.com/java/java-date-time.html)
-- [查看jar包内容 - wqbin - 博客园](https://www.cnblogs.com/wqbin/p/11128391.html)
-- [cmd命令javac运行类（依赖jar包）_牟云飞的博客-CSDN博客](https://blog.csdn.net/myfmyfmyfmyf/article/details/53179395)
-- [用命令编译、运行java项目(多个源码包，依赖第三方jar包)_afeiluo的博客-CSDN博客](https://blog.csdn.net/afeiluo/article/details/40301345)
-- [javac：使用第三方库编译java类 - VoidCC](http://cn.voidcc.com/question/p-cqtuaeah-p.html)
-- [java 入门-helloWorld - Sunsin - 博客园](https://www.cnblogs.com/cisum/p/8006025.html)
-- [System.loadLibrary()的使用方法汇总_for ever的log——永远的足迹-CSDN博客](https://blog.csdn.net/forandever/article/details/5983846)
-- [详解Java中native方法的使用_java_脚本之家](https://www.jb51.net/article/195760.htm)
-- [java.lang.UnsatisfiedLinkError: Native method not found 可能引起的原因_cao_dayong的博客-CSDN博客](https://blog.csdn.net/cao_dayong/article/details/76274266)
-
 # Gradle
 - [通过Gradle来下载依赖的jar包_飞鸟Blog-CSDN博客_gradle 下载依赖](https://blog.csdn.net/yczz/article/details/16363465)
 - [使用Gradle编译Java项目_hanshiying007的博客-CSDN博客_gradle java](https://blog.csdn.net/hanshiying007/article/details/107294709/)
