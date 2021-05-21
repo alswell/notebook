@@ -115,3 +115,17 @@
 - [通过Gradle来下载依赖的jar包_飞鸟Blog-CSDN博客_gradle 下载依赖](https://blog.csdn.net/yczz/article/details/16363465)
 - [使用Gradle编译Java项目_hanshiying007的博客-CSDN博客_gradle java](https://blog.csdn.net/hanshiying007/article/details/107294709/)
 - [Gradle的使用教程_随笔记-CSDN博客_gradle](https://blog.csdn.net/qq_22172133/article/details/81513955)
+
+# compile & driver
+- [Android应用程序访问linux驱动_阳光玻璃杯-CSDN博客](https://blog.csdn.net/u011913612/category_6341661.html)
+- [Android应用程序访问linux驱动第一步：实现并测试Linux驱动_阳光玻璃杯-CSDN博客_android linux驱动](https://blog.csdn.net/u011913612/article/details/52516303)
+- [Android应用程序访问linux驱动第二步：实现并测试hardware层_阳光玻璃杯-CSDN博客](https://blog.csdn.net/u011913612/article/details/52518186)
+- [Android应用程序访问linux驱动第五步：回顾hw_get_module_阳光玻璃杯-CSDN博客](https://blog.csdn.net/u011913612/article/details/52576831)
+- [在Ubuntu上为Android系统编写Linux内核驱动程序_老罗的Android之旅-CSDN博客](https://blog.csdn.net/luoshengyang/article/details/6568411)
+- [在Ubuntu上下载、编译和安装Android最新源代码_老罗的Android之旅-CSDN博客_ubuntu 下载android源码](https://blog.csdn.net/luoshengyang/article/details/6559955)
+- [在Ubuntu上下载、编译和安装Android最新内核源代码（Linux Kernel）_老罗的Android之旅-CSDN博客](https://blog.csdn.net/luoshengyang/article/details/6564592)
+- [Android编译系统分析二：mm编译单个模块_阳光玻璃杯-CSDN博客](https://blog.csdn.net/u011913612/article/details/52415948)
+- [Android HAL层库加载原理 - 简书](https://www.jianshu.com/p/b426fe563380)
+- [Android Camera 流程学习记录（三）—— Camera hw_get_module() 相关逻辑 - StoneDemo - 博客园](https://www.cnblogs.com/stonedemo/p/7533636.html)
+- [Android中hw_get_module函数分析_编程菜鸟进阶之路-CSDN博客_hw_get_module](https://blog.csdn.net/u014135607/article/details/79840130)
+
