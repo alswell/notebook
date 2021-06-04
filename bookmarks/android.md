@@ -17,10 +17,12 @@
 
 # adb
 - [android虚拟机sdcard操作出现mkdir failed for , Read-only file system的解决办法_superyu1992的专栏-CSDN博客](https://blog.csdn.net/superyu1992/article/details/38032227)
+- [Android O, failed to mount /system, /dev/block/dm-0 is read only_houxn22的专栏-CSDN博客](https://blog.csdn.net/houxn22/article/details/81901520)
 - [adb编辑器获取root权限显示su : not found；adbd cannot run as root in production builds_进击de菜鸟的博客-CSDN博客](https://blog.csdn.net/qq_41999034/article/details/105850941)
 - [adbd cannot run as root in production builds 的解决方法_fantaxy025025的专栏-CSDN博客](https://blog.csdn.net/fantaxy025025/article/details/84901694)
 - [Android使用ADB启动应用程序_countofdane的博客-CSDN博客](https://blog.csdn.net/countofdane/article/details/82194304)
 - [android 常用命令 - _** - 博客园](https://www.cnblogs.com/Fightingbirds/p/11288046.html)
+- [adb shell中的am pm命令 - 飘飘雪 - 博客园](https://www.cnblogs.com/wangcp-2014/p/6076035.html)
 - [ADB及shell命令总结_JBlock的博客-CSDN博客_shell和adb](https://blog.csdn.net/JBlock/article/details/88076249?utm_term=adbdalvikvmshell&utm_medium=distribute.pc_aggpage_search_result.none-task-blog-2~all~sobaiduweb~default-1-88076249&spm=3001.4430)
 - [Ubuntu16.04解决交叉编译生成的二进制文件，在卓模拟器上执行./a.out文件报错：/system/bin/sh: ./a.out: No such file or directory_天道酬勤-CSDN博客](https://blog.csdn.net/yishengzhiai005/article/details/104559558)
 
@@ -47,10 +49,14 @@
 - [init.rc深入学习_ch853199769的博客-CSDN博客](https://blog.csdn.net/ch853199769/article/details/78427362)
 
 # ubuntu touch
+- [Introduction to porting — UBports documentation](https://docs.ubports.com/en/latest/porting/)
+- [UBports](https://github.com/ubports)
 - [Choose your device • Ubuntu Touch • Linux Phone](https://devices.ubuntu-touch.io/#/bacon)
 - [小米4 ubuntu touch 系统安装教程 ROM 安装 cancro touch ubuntu - 枫_林_海的个人空间 - OSCHINA - 中文开源技术交流社区](https://my.oschina.net/u/2463245/blog/3220505)
 - [技术|在手机上轻松安装 Ubuntu Touch OS](https://linux.cn/article-7880-1.html)
 - [刷Ubuntu Touch 官方教程 - OnePlus 1 - 一加手机社区官方论坛](http://www.oneplusbbs.com/thread-2821090-1-1.html)
+- [手机变PC：给安卓手机刷Ubuntu Touch系统](https://baijiahao.baidu.com/s?id=1591108291886489078&wfr=spider&for=pc)
+- [twrp是什么？ - html中文网](https://www.html.cn/qa/other/19261.html)
 
 # DEV
 - [Android开发，从“HelloWorld”开始_程序袁的CSDN-CSDN博客](https://blog.csdn.net/qq_31407459/article/details/79356953)
@@ -128,4 +134,12 @@
 - [Android HAL层库加载原理 - 简书](https://www.jianshu.com/p/b426fe563380)
 - [Android Camera 流程学习记录（三）—— Camera hw_get_module() 相关逻辑 - StoneDemo - 博客园](https://www.cnblogs.com/stonedemo/p/7533636.html)
 - [Android中hw_get_module函数分析_编程菜鸟进阶之路-CSDN博客_hw_get_module](https://blog.csdn.net/u014135607/article/details/79840130)
+- [深入浅出 - Android系统移植与平台开发- CSDN搜索](https://so.csdn.net/so/search/blog?q=%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BA%20-%20Android%E7%B3%BB%E7%BB%9F%E7%A7%BB%E6%A4%8D%E4%B8%8E%E5%B9%B3%E5%8F%B0%E5%BC%80%E5%8F%91&t=blog&p=1&s=0&tm=0&lv=-1&ft=0&l=&u=mr_raptor)
+- [深入浅出 - Android系统移植与平台开发（一）_mr_raptor的专栏-CSDN博客](https://blog.csdn.net/mr_raptor/article/details/8940414)
+- [深入浅出 - Android系统移植与平台开发（七）- Android系统的启动_mr_raptor的专栏-CSDN博客](https://blog.csdn.net/mr_raptor/article/details/30108839?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522162044242116780264076230%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fblog.%2522%257D&request_id=162044242116780264076230&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~blog~first_rank_v2~rank_v29-12-30108839.pc_v2_rank_blog_default&utm_term=%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BA+-+Android%E7%B3%BB%E7%BB%9F%E7%A7%BB%E6%A4%8D%E4%B8%8E%E5%B9%B3%E5%8F%B0%E5%BC%80%E5%8F%91&spm=1018.2226.3001.4450)
+- [深入浅出 - Android系统移植与平台开发（一）_mr_raptor的专栏-CSDN博客](https://blog.csdn.net/mr_raptor/article/details/7946254)
+- [深入浅出 - Android系统移植与平台开发（二） - 准备Android开发环境_mr_raptor的专栏-CSDN博客](https://blog.csdn.net/mr_raptor/article/details/7954474?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522162044242116780264076230%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fblog.%2522%257D&request_id=162044242116780264076230&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~blog~first_rank_v2~rank_v29-3-7954474.pc_v2_rank_blog_default&utm_term=%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BA+-+Android%E7%B3%BB%E7%BB%9F%E7%A7%BB%E6%A4%8D%E4%B8%8E%E5%B9%B3%E5%8F%B0%E5%BC%80%E5%8F%91&spm=1018.2226.3001.4450)
+- [深入浅出 - Android系统移植与平台开发（七）－ 初识HAL_mr_raptor的专栏-CSDN博客](https://blog.csdn.net/mr_raptor/article/details/8069588?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522162044242116780264076230%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fblog.%2522%257D&request_id=162044242116780264076230&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~blog~first_rank_v2~rank_v29-10-8069588.pc_v2_rank_blog_default&utm_term=%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BA+-+Android%E7%B3%BB%E7%BB%9F%E7%A7%BB%E6%A4%8D%E4%B8%8E%E5%B9%B3%E5%8F%B0%E5%BC%80%E5%8F%91&spm=1018.2226.3001.4450)
+- [深入浅出 - Android系统移植与平台开发（九）- Android系统system_server及Home启动_mr_raptor的专栏-CSDN博客](https://blog.csdn.net/mr_raptor/article/details/30111337?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522162044242116780264076230%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fblog.%2522%257D&request_id=162044242116780264076230&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~blog~first_rank_v2~rank_v29-23-30111337.pc_v2_rank_blog_default&utm_term=%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BA+-+Android%E7%B3%BB%E7%BB%9F%E7%A7%BB%E6%A4%8D%E4%B8%8E%E5%B9%B3%E5%8F%B0%E5%BC%80%E5%8F%91&spm=1018.2226.3001.4450)
+- [深入浅出 - Android系统移植与平台开发（十一）- Android系统的定制_mr_raptor的专栏-CSDN博客_android定制系统开发](https://outfox.blog.csdn.net/article/details/30113417)
 

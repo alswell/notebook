@@ -1,4 +1,3 @@
-# Java
 - [请问如何将String转换成InputStream-CSDN论坛](https://bbs.csdn.net/topics/70022722)
 - [Java：ArrayList和数组int[]的相互转化_weixin_41615787的博客-CSDN博客](https://blog.csdn.net/weixin_41615787/article/details/85115620)
 - [java处理日期时间 相加减 - 学徒 - ITeye博客](https://www.iteye.com/blog/alexfc-363185)
@@ -14,3 +13,19 @@
 - [java如何追加写入txt文件_chenjy12345的博客-CSDN博客](https://blog.csdn.net/chenjy12345/article/details/72514053)
 - [java中如何读取文件-Java基础-PHP中文网](https://www.php.cn/java/base/436165.html)
 - [[Java]读取文件方法大全 - lovebread - 博客园](https://www.cnblogs.com/lovebread/archive/2009/11/23/1609122.html)
+
+# java
+- [Servlet 工作原理解析](https://www.ibm.com/developerworks/cn/java/j-lo-servlet/)
+- [javaweb学习总结(五)——Servlet开发(一) - 孤傲苍狼 - 博客园](http://www.cnblogs.com/xdp-gacl/p/3760336.html)
+- [java中Map,List与Set的区别 - 狼牙灬月 - 博客频道 - CSDN.NET](http://blog.csdn.net/speedme/article/details/22398395/)
+- [Java中Collection和Collections的区别 - Peng的技术博客 - ITeye技术网站](http://pengcqu.iteye.com/blog/492196)
+- [Java for循环的几种用法详解 - 飞鸟各投林 - 博客园](http://www.cnblogs.com/hellochennan/p/5373186.html)
+- [关于 Java 数组的 12 个最佳方法 - 编程语言 - ITeye资讯](http://www.iteye.com/news/28296)
+- [Java多线程-实例解析 - yfsmooth - 博客园](http://www.cnblogs.com/yfsmooth/p/4652206.html)
+- [Java synchronized 详解 - beiyetengqing - 博客园](http://www.cnblogs.com/beiyetengqing/p/6213437.html)
+- [java synchronized详解 - Gang.Wang - 博客园](http://www.cnblogs.com/GnagWang/archive/2011/02/27/1966606.html)
+- [Java多线程简析——Synchronized（同步锁）、Lock以及线程池 - 双斧狂暴战专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/yangzhaomuma/article/details/51236976)
+- [java 同步锁(synchronized) - lianqiangjava的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/lianqiangjava/article/details/12652201/)
+- [Eclipse搭建Android开发环境（安装ADT，Android4.4.2） - 海涛的博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/zht666/article/details/29837777/)
+- [第一个Android项目——计算器 - 阳光日志 - CSDN博客](http://blog.csdn.net/luoweifu/article/details/10696693)
+- [用命令行编译java并生成可执行的jar包方法_java_脚本之家](https://www.jb51.net/article/131744.htm)
