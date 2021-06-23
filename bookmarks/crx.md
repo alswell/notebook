@@ -1,8 +1,0 @@
-- [【干货】Chrome插件(扩展)开发全攻略 - 我是小茗同学 - 博客园](https://www.cnblogs.com/liuxianan/p/chrome-plugin-develop.html)
-- [Chrome扩展开发总结之浏览器书签获取 - 且听真言 - CSDN博客](https://blog.csdn.net/zhangying1994/article/details/82346353)
-- [Chrome扩展开发指南(8)——Bookmarks(书签操作) - emerald0106的专栏 - CSDN博客](https://blog.csdn.net/emerald0106/article/details/7085366)
-- [如何在浏览器中捕获JS的语法错误 - Frank的博客 - CSDN博客](https://blog.csdn.net/Frank52983/article/details/79632421)
-- [window方法：captureEvents()_w3cschool](https://www.w3cschool.cn/fetch_api/fetch_api-w3zc2v4w.html)
-- [HTML DOM addEventListener() 方法 | 菜鸟教程](https://www.runoob.com/jsref/met-element-addeventlistener.html)
-- [HTML DOM 事件对象 | 菜鸟教程](https://www.runoob.com/jsref/dom-obj-event.html)
-- [利用Chrome的Console功能实现JS网页自动点击-百度经验](https://jingyan.baidu.com/article/0a52e3f41c0b0abf63ed726d.html)

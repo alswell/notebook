@@ -166,3 +166,9 @@
 - [Paste 起步 - spch2008的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/spch2008/article/details/9005669)
 ## pecan
 - [pecan - Allison_ywt的博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/allison_ywt/article/details/54140730)
+## flask
+- [flask之url_for()函数_牛腩面的博客-CSDN博客_url_for](https://blog.csdn.net/shuibuzhaodeshiren/article/details/86819537)
+- [【Flask】Flask 重定向和错误_mjiansun的专栏-CSDN博客_flask 重定向](https://blog.csdn.net/u013066730/article/details/108362286)
+- [flask-重定向详解_qq_27110607的博客-CSDN博客_flask重定向](https://blog.csdn.net/qq_27110607/article/details/80858791)
+- [flask 重定向详解 - python成长中 - 博客园](https://www.cnblogs.com/wuheng-123/p/9667524.html)
+

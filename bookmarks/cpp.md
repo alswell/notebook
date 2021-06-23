@@ -139,3 +139,20 @@
 - [makefile 中 $@ $^ %< 使用 - kesaihao862的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/kesaihao862/article/details/7332528)
 - [makefile自动变量与隐晦规则推导_网络_langzi989的专栏-CSDN博客](https://blog.csdn.net/u014630623/article/details/88969675)
 - [Makefile教程（绝对经典，所有问题看这一篇足够了）_C/C++_weixin_38391755的博客-CSDN博客](https://blog.csdn.net/weixin_38391755/article/details/80380786)
+
+
+# C++
+- [C 标准库 – <string.h> | 菜鸟教程](https://www.runoob.com/cprogramming/c-standard-library-string-h.html)
+- [C++ string类（C++字符串）完全攻略](http://c.biancheng.net/view/400.html)
+- [strtol、wcstol、_strtol_l、_wcstol_l_heary29的专栏-CSDN博客](https://blog.csdn.net/heary29/article/details/41867385)
+- [C++中在指定的内存位置，调用构造函数 - 一颗麦粒 - 博客园](https://www.cnblogs.com/kwliu/archive/2011/12/30/2307490.html)
+- [C++中new的用法及显示调用析构函数 - Boblim - 博客园](https://www.cnblogs.com/fnlingnzb-learner/p/9279039.html)
+- [C++11 带来的新特性 （3）—— 关键字noexcept - 翻书 - 博客园](https://www.cnblogs.com/sword03/p/10020344.html)
+- [C++11 之 override - 潍县萧萧竹 - 博客园](https://www.cnblogs.com/xinxue/p/5471708.html)
+- [C 语言中 setjmp 和 longjmp](https://www.cnblogs.com/hazir/p/c_setjmp_longjmp.html)
+- [C语言中利用setjmp和longjmp做异常处理](https://blog.csdn.net/qq_34793133/article/details/80475323)
+- [setjump和longjump函数及使用注意事项，C语言setjump和longjump函数详解](http://c.biancheng.net/view/389.html)
+- [在Linux中调试段错误](https://www.cnblogs.com/longjiang-uestc/p/10635135.html)
+- [How to get a core dump for a segfault on Linux](https://jvns.ca/blog/2018/04/28/debugging-a-segfault-on-linux/)
+- [C++的重载（overload）与重写（override） - 阿凡卢 - 博客园](https://www.cnblogs.com/luxiaoxun/archive/2012/08/09/2630751.html)
+- [关于模板：C ++：为什么decltype(* this)返回引用？ | 码农家园](https://www.codenong.com/25312225/)

@@ -22,6 +22,9 @@
 - [golang expect包的使用 - 运维之路](http://www.361way.com/go-expect/5899.html)
 - [go与c混合编程的基本流程 - dong_beijing的博客](https://blog.csdn.net/dong_beijing/article/details/79642872)
 - [golang——字符串与编码 - 笃志弘毅 - 博客园](https://www.cnblogs.com/dzhy/p/10936926.html)
+- [有点不安全却又一亮的 Go unsafe.Pointer - 简书](https://www.jianshu.com/p/fb25dce48317)
+- [go (golang) DNS域名解析实现_mumumuwudi的博客-CSDN博客](https://blog.csdn.net/mumumuwudi/article/details/48200505)
+- [bndr/gotabulate: Gotabulate - Easily pretty-print your tabular data with Go](https://github.com/bndr/gotabulate)
 # pkg-mgr
 - [go依赖包管理工具对比 - Go语言中文网 - Golang中文社区](https://studygolang.com/articles/10523)
 - [Govendor使用 - 简书](https://www.jianshu.com/p/88669ba57d04)
@@ -64,3 +67,10 @@
 - [golang 单元测试、性能测试、性能监控技术 - Go语言中文网 - Golang中文社区](https://studygolang.com/articles/7999)
 - [golang系统性能监控初探 - 魏加恩 - 博客园](https://www.cnblogs.com/weijiaen/p/3970466.html)
 - [Golang使用pprof和qcachegrind进行性能监控-简明教程 - lorddeseis - 博客园](https://www.cnblogs.com/isaiah/p/7271084.html)
+# cobra
+- [golang命令行库cobra的使用 - Go语言中文网 - Golang中文社区](https://studygolang.com/articles/7588)
+- [Golang : cobra 包简介 - sparkdev - 博客园](https://www.cnblogs.com/sparkdev/archive/2019/05/14/10856077.html)
+# go mod
+- [开始使用 Go Module - 知乎](https://zhuanlan.zhihu.com/p/59687626)
+- [Go Module 入门使用 - 个人文章 - SegmentFault 思否](https://segmentfault.com/a/1190000016676359)
+- [谈谈go.sum - spacewander - SegmentFault 思否](https://segmentfault.com/a/1190000021425527)

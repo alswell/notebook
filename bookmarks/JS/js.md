@@ -13,3 +13,29 @@
 - [使用Node.js解析PNG文件_liuyaqi1993的博客-CSDN博客](https://blog.csdn.net/liuyaqi1993/article/details/77531328)
 - [JSPNG: JavaScript读取PNG图片](https://gitee.com/liuyaqi/JSPNG)
 - [前端接收数据流实现图片预览效果--ajax 请求二进制流 图片 文件 XMLHttpRequest 请求并处理二进制流数据 之最佳实践_m0_37148591的博客-CSDN博客](https://blog.csdn.net/m0_37148591/article/details/80828773?utm_medium=distribute.pc_relevant.none-task-blog-baidujs_title-0&spm=1001.2101.3001.4242)
+
+### JS
+- [Web 开发技术 | MDN](https://developer.mozilla.org/zh-CN/docs/Web)
+- [JS 中判断空值 undefined 和 null - Rainyn - 博客园](https://www.cnblogs.com/thiaoqueen/p/6904398.html)
+- [js中print()打印网页指定区域内容_Misnice的博客-CSDN博客_js print](https://blog.csdn.net/Misnice/article/details/100520112)
+- [HTML DOM getElementById() 方法 | 菜鸟教程](https://www.runoob.com/jsref/met-document-getelementbyid.html)
+- [JS中常用的输出方式(五种) - 徐文昊 - 博客园](https://www.cnblogs.com/hao0/p/6564336.html)
+- [js修改onclick动作的四种方法(推荐)_javascript技巧_脚本之家](https://www.jb51.net/article/90760.htm)
+- [js动态添加的DIV中的onclick事件简单实例_javascript技巧_脚本之家](https://www.jb51.net/article/89215.htm)
+
+
+
+- [如何在浏览器中捕获JS的语法错误 - Frank的博客 - CSDN博客](https://blog.csdn.net/Frank52983/article/details/79632421)
+- [window方法：captureEvents()_w3cschool](https://www.w3cschool.cn/fetch_api/fetch_api-w3zc2v4w.html)
+- [HTML DOM addEventListener() 方法 | 菜鸟教程](https://www.runoob.com/jsref/met-element-addeventlistener.html)
+- [HTML DOM 事件对象 | 菜鸟教程](https://www.runoob.com/jsref/dom-obj-event.html)
+
+
+# JS
+- [JS向上取整、向下取整、四舍五入等 - 简书](https://www.jianshu.com/p/a93bd02d9eb7)
+- [Javascript中找到子元素在父元素内相对位置的代码_javascript技巧_脚本之家](https://www.jb51.net/article/30856.htm)
+- [HTML5 Canvas | 菜鸟教程](https://www.runoob.com/html/html5-canvas.html)
+- [HTML 5 Canvas](https://www.w3school.com.cn/html5/html_5_canvas.asp)
+
+
+- [Chrome浏览器支持直接读写本地文件了](https://juejin.cn/post/6844904181896052750)
